@@ -1,4 +1,4 @@
-# coesisapp
+# Login and Sign Up UI
 
 A new Flutter project.
 
